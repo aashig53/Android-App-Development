@@ -19,7 +19,6 @@
 ## 🧩 Technologies and Components Used
 
 - **Language**: Kotlin
-- **Framework**: Android SDK
 - **UI Components**:
   - `DrawerLayout`, `NavigationView`
   - `RecyclerView`, `CardView`
